@@ -45,7 +45,6 @@ getgenv().TARGET_BRAINROTS = {
     ["Festive 67"] = true,
     ["Ventoliero Pavonero"] = true,
     ["Cloverat Clapat"] = true,
-    ["Spaghetti Tualetti"] = true,
     ["Antonio"] = true,
     ["La Easter Grande"] = true,
     ["Rosetti Tualetti"] = true,
